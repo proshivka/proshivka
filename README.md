@@ -12,7 +12,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-<a href="https://t.me/meowproshivka"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="56" alt="telegram"></picture></a>&nbsp;<a href="https://discord.com/skitllechan2910"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="56" alt="discord"></picture></a>
+<a href="https://t.me/meowproshivka"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="56" alt="telegram"></picture></a>&nbsp;<a href="https://discord.com/users/1186599533891821604"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="56" alt="discord"></picture></a>
 
 <a href="https://metawka.github.io/expressive-profile/?from=proshivka"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
