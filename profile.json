@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "proshivka",
-  "seed": "#433FD4",
+  "seed": "#282CBF",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -18,8 +18,7 @@
     "socials"
   ],
   "hidden": [
-    "streak",
-    "stack"
+    "buttons"
   ],
   "hero": {
     "greeting": "Hi, I'm",
@@ -62,16 +61,20 @@
         "title": "Main",
         "items": [
           {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
-          },
-          {
-            "icon": "brand:react",
-            "label": "React"
-          },
-          {
             "icon": "brand:python",
             "label": "Python"
+          },
+          {
+            "icon": "star",
+            "label": "C#"
+          },
+          {
+            "icon": "rocket_launch",
+            "label": "C"
+          },
+          {
+            "icon": "brand:android",
+            "label": "Android"
           }
         ]
       },
@@ -87,8 +90,8 @@
             "label": "Figma"
           },
           {
-            "icon": "brand:githubactions",
-            "label": "GitHub Actions"
+            "icon": "brand:androidstudio",
+            "label": "Android Studio"
           }
         ]
       }
@@ -126,7 +129,7 @@
       },
       {
         "icon": "brand:discord",
-        "url": "https://discord.com/"
+        "url": "https://discord.com/skitllechan2910"
       }
     ],
     "variant": "icon",
