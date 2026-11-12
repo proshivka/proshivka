@@ -1,13 +1,25 @@
 {
- "key": "84a72bfd",
+ "key": "235d34ff",
  "stars": 0,
- "contributions": 10,
- "repos": 3,
+ "contributions": 11,
+ "repos": 4,
  "followers": 2,
  "languages": [
   [
+   "C",
+   11292572
+  ],
+  [
+   "Python",
+   45506
+  ],
+  [
    "HTML",
    35644
+  ],
+  [
+   "Assembly",
+   22829
   ],
   [
    "CSS",
@@ -16,6 +28,10 @@
   [
    "JavaScript",
    6238
+  ],
+  [
+   "Linker Script",
+   5576
   ]
  ],
  "days": [
@@ -115,7 +131,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 2,
     "day": 12,
     "today": true
    },
@@ -129,6 +145,15 @@
  },
  "pins": [],
  "all": [
+  {
+   "name": "proshivkaos-reborn",
+   "url": "https://github.com/proshivka/proshivkaos-reborn",
+   "text": "proshivkaOS — Reborn. The bare-metal OS rises again. Pure C & ASM, zero dependencies, x86 + ARM64 smartphones.",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
   {
    "name": "proshivka.github.io",
    "url": "https://github.com/proshivka/proshivka.github.io",
