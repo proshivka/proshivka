@@ -1,8 +1,8 @@
 {
- "key": "dd29c7fe",
- "stars": 0,
- "contributions": 11,
- "repos": 4,
+ "key": "a3600ff",
+ "stars": 1,
+ "contributions": 15,
+ "repos": 5,
  "followers": 2,
  "languages": [
   [
@@ -10,16 +10,20 @@
    11332135
   ],
   [
+   "Rust",
+   99123
+  ],
+  [
    "Python",
    45506
   ],
   [
-   "HTML",
-   35644
+   "Assembly",
+   44364
   ],
   [
-   "Assembly",
-   22829
+   "HTML",
+   35644
   ],
   [
    "CSS",
@@ -28,10 +32,6 @@
   [
    "JavaScript",
    6238
-  ],
-  [
-   "Linker Script",
-   5576
   ]
  ],
  "days": [
@@ -141,18 +141,27 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 4,
     "day": 14,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 3
  },
  "pins": [],
  "all": [
+  {
+   "name": "pizdOS",
+   "url": "https://github.com/proshivka/pizdOS",
+   "text": "какая то ебануто хуёвая операционная система под названием pizdOS",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": []
+  },
   {
    "name": "proshivkaos-reborn",
    "url": "https://github.com/proshivka/proshivkaos-reborn",
